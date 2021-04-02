@@ -1,0 +1,51 @@
+/*
+ ============================================================================
+ Name        : sabadoDos.c
+ Author      : Luis Andaur
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int enteros(int a);
+
+int main(void) {
+	setbuf(stdout, NULL);
+
+	int numero;
+
+	printf("Ingrese un numero: ");
+	scanf("%d", &numero);
+
+	numero = enteros(numero);
+
+	printf("El numero es: %d", numero);
+
+	return EXIT_SUCCESS;
+}
+
+int enteros(int a)
+{
+	if(a<0)
+	{
+		a = 1;
+	}
+	else
+	{
+		if(a<0)
+		{
+			a=-1;
+		}
+		else
+		{
+			a=0;
+		}
+	}
+
+	return a;
+}
+

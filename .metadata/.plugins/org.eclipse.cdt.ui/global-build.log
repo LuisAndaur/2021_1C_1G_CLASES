@@ -1,0 +1,6 @@
+22:29:14 **** Incremental Build of configuration Debug for project sabadoDos ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sabadoDos.o" "..\\src\\sabadoDos.c" 
+gcc -o sabadoDos.exe "src\\biblioteca.o" "src\\sabadoDos.o" 
+Info: Nothing to build for sabadoDos
+Info: Nothing to build for sabadoDos

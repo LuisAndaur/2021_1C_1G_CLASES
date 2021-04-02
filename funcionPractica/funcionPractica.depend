@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1616799422 source:d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\proyectos c\funcionpractica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"andaur.h"
+
+1616799478 source:d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\proyectos c\funcionpractica\andaur.c
+	"andaur.h"
+
+1616799234 d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\proyectos c\funcionpractica\andaur.h
+

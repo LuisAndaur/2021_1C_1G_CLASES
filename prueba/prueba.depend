@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1616528386 source:d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\proyectos c\prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1616528883 source:d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\proyectos c\prueba\otro.c
+	<stdio.h>
+	<stdlib.h>
+
+1616528710 source:d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\proyectos c\prueba\clase.c
+

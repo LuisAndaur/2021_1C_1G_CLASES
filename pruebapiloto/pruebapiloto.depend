@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584205420 source:d:\tecnicatura universitaria en programaciÓn\1er cuatrimenstre 2021\programación y laboratorio 1\proyectos c\pruebapiloto\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1616518102 source:d:\tecnicatura universitaria en programaciÓn\1er cuatrimenstre 2021\programación y laboratorio 1\proyectos c\pruebapiloto\pruebados.c
+	<stdio.h>
+	<stdlib.h>
+
