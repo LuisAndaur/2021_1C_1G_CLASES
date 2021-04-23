@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1618610823 source:d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\cadena1gtarea\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cadena.h"
+
+1618611371 source:d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\cadena1gtarea\cadena.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1618606377 d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\cadena1gtarea\cadena.h
+

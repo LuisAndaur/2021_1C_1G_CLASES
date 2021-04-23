@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618862434 source:d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\matriz1g2tarea\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1618589189 source:d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\tp_laboratorio_1\tp1\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1618589106 d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\tp_laboratorio_1\tp1\tp1\utn.h
+
+1618589123 source:d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\tp_laboratorio_1\tp1\tp1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

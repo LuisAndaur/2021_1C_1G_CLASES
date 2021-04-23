@@ -1,6 +1,5 @@
-22:29:14 **** Incremental Build of configuration Debug for project sabadoDos ****
+10:34:11 **** Incremental Build of configuration Debug for project sabadoArrays ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sabadoDos.o" "..\\src\\sabadoDos.c" 
-gcc -o sabadoDos.exe "src\\biblioteca.o" "src\\sabadoDos.o" 
-Info: Nothing to build for sabadoDos
-Info: Nothing to build for sabadoDos
+gcc -o sabadoArrays.exe "src\\sabadoArrays.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file sabadoArrays.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
